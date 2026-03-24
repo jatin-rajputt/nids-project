@@ -19,12 +19,12 @@ The system provides:
 ## 🖥️ Dashboard Demonstration
 
 ### 🔹 1. Normal Traffic Monitoring
-![Normal Traffic](images/demo1.png)
+![Normal Traffic](image/demo1.png)
 
 ---
 
 ### 🔴 2. Port Scan Detection (LOW Severity)
-![Normal Traffic](images/demo2.png)
+![Normal Traffic](image/demo2.png)
 
 📌 Example Output:
 [LOW] Port Scan detected from 192.168.1.7
@@ -32,7 +32,7 @@ The system provides:
 ---
 
 ### 🟠 3. Brute Force Attack Detection (MEDIUM Severity)
-![Normal Traffic](images/demo3.png)
+![Normal Traffic](image/demo3.png)
 
 📌 Example Output:
 [MEDIUM] Brute Force Attack detected from 192.168.1.7
@@ -40,7 +40,7 @@ The system provides:
 ---
 
 ### 🔥 4. DoS Attack Detection (HIGH Severity)
-![Normal Traffic](images/demo4.png)
+![Normal Traffic](image/demo4.png)
 
 📌 Example Output:
 [HIGH] DoS Attack detected from 192.168.1.7
