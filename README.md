@@ -64,6 +64,7 @@ The system provides:
 ---
 
 ## 🧱 Project Structure
+```
 GUI_NIDS/
 │
 ├── core/
@@ -89,7 +90,7 @@ GUI_NIDS/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
