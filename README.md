@@ -64,7 +64,7 @@ The system provides:
 ---
 
 ## 🧱 Project Structure
-
+```
 GUI_NIDS/
 │
 ├── core/
@@ -90,7 +90,7 @@ GUI_NIDS/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -120,22 +120,24 @@ Traffic spikes indicate potential attacks:
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
+```
 git clone https://github.com/jatin-rajputt/nids-project.git
 cd nids-project
-
+```
 ---
 
 ### 2. Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 
 ---
 
 ### 3. Run the Project
-
+```
 python main.py
 
-
+```
 ---
 
 ## 🧠 How It Works
