@@ -64,7 +64,6 @@ The system provides:
 ---
 
 ## 🧱 Project Structure
-
 GUI_NIDS/
 │
 ├── core/
