@@ -3,7 +3,8 @@ from tkinter import ttk, scrolledtext
 from gui.live_graph import LiveGraph
 from gui.interface_selector import get_interfaces
 from core.event_bus import consume
-
+#from tkinter import tkk
+from gui.analytics_panel import AnalyticsPanel
 
 def start_dashboard(start_ids, stop_ids):
 
@@ -25,7 +26,18 @@ def start_dashboard(start_ids, stop_ids):
         return frame
 
     # 🧩 MAIN CONTAINER
-    main = tk.Frame(root, bg=BG)
+    notebook = ttk.Notebook(root)
+    notebook.pack(fill="both", expand=True)
+
+    # TAB 1 → LIVE
+    dashboard_tab = tk.Frame(notebook, bg=BG)
+    notebook.add(dashboard_tab, text="Live Monitor")
+
+    # TAB 2 → ANALYTICS
+    analytics_tab = tk.Frame(notebook, bg=BG)
+    notebook.add(analytics_tab, text="Analytics")
+
+    main = tk.Frame(dashboard_tab, bg=BG)
     main.pack(fill="both", expand=True, padx=10, pady=10)
 
     # LEFT SIDE (traffic + alerts stacked)
@@ -45,7 +57,7 @@ def start_dashboard(start_ids, stop_ids):
         fg=TEXT,
         insertbackground="white",
         borderwidth=0,
-        font=("Consolas", 10)
+        font=("Consolas", 14)
     )
     traffic_box.pack(fill="both", expand=True, padx=5, pady=5)
 
@@ -64,7 +76,7 @@ def start_dashboard(start_ids, stop_ids):
         fg="#f87171",
         insertbackground="white",
         borderwidth=0,
-        font=("Consolas", 9)
+        font=("Consolas", 14)
     )
     alert_box.pack(fill="x", padx=5, pady=5)
         
@@ -76,14 +88,23 @@ def start_dashboard(start_ids, stop_ids):
     graph_frame.place(relx=0.66, rely=0.05, relwidth=0.32, relheight=0.9)
 
     # 3 stacked graphs
-    g1 = tk.Frame(graph_frame, bg=PANEL)
-    g1.pack(fill="both", expand=True)
+   
 
     
 
     LiveGraph(graph_frame)
     
-
+    analytics_panel = AnalyticsPanel(analytics_tab)
+    
+    refresh_btn = tk.Button(
+        analytics_tab,
+        text="Refresh Analytics",
+        command=analytics_panel.update_charts,
+        bg="#334155",
+        fg="white"
+    )
+    refresh_btn.pack(pady=10)
+    
     # 🔽 TOP CONTROL BAR (Dropdown + Buttons)
     control = tk.Frame(root, bg=BG)
     control.place(relx=0.34, rely=0.01)
@@ -115,6 +136,7 @@ def start_dashboard(start_ids, stop_ids):
     # 🔄 EVENT LOOP
     def update():
         attack_counter = {}
+        
         if not root.winfo_exists():
             return
 
@@ -136,7 +158,7 @@ def start_dashboard(start_ids, stop_ids):
 
                     attack_counter[ip] = attack_counter.get(ip, 0) + 1
 
-                    top_ip = max(attack_counter, key=attack_counter.get)
+                    #top_ip = max(attack_counter, key=attack_counter.get)
 
                     # top_ip_label.config(text=f"Top IP: {top_ip}")
                     # attack_count_label.config(text=f"Attacks: {attack_counter[top_ip]}")
@@ -148,6 +170,12 @@ def start_dashboard(start_ids, stop_ids):
         root.after(200, update)
 
     update()
+    
+    def auto_update_analytics():
+        analytics_panel.update_charts()
+        root.after(30000, auto_update_analytics)
+
+    auto_update_analytics()
 
     def on_close():
         stop_ids()

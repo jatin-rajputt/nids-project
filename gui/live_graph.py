@@ -49,7 +49,7 @@ class LiveGraph:
             self.ax.plot(
                 self.packet_data[:i+1],
                 color="#38bdf8",
-                linewidth=2,
+                linewidth=4,
                 alpha=alpha * 0.6
             )
 

@@ -118,3 +118,174 @@
 [2026-03-21 11:59:13] [LOW] Port Scan detected from 192.168.1.7
 [2026-03-21 11:59:23] [LOW] Port Scan detected from 192.168.1.7
 [2026-03-21 11:59:33] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:28:36] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:28:46] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:28:56] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:29:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:29:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-24 21:33:52] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-03-24 21:35:23] [HIGH] DoS Attack detected from 192.168.1.7
+[2026-03-26 12:49:15] [LOW] Port Scan detected from 192.168.1.7
+[2026-03-26 12:49:25] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:25:17] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:25:27] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:25:37] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:25:47] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:25:57] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:26:46] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:26:56] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:27:06] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:27:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:27:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:27:36] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:27:56] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:28:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:28:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 17:58:57] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-05 18:05:01] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-05 18:13:13] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:13:23] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:15:15] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:15:25] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:15:45] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:15:55] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:16:05] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:16:15] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:17:06] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-05 18:17:18] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-05 18:18:58] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:19:08] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:19:28] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:19:38] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:19:48] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:20:56] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-05 18:21:22] [HIGH] DoS Attack detected from 192.168.1.7
+[2026-05-05 18:21:32] [HIGH] DoS Attack detected from 192.168.1.7
+[2026-05-05 18:25:39] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:25:49] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:25:59] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:26:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:26:36] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:26:56] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 18:27:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:56:33] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:56:43] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:56:53] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:57:03] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:57:23] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:57:43] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:57:53] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:58:03] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:58:23] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:58:43] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:58:53] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:59:13] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:59:33] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:59:43] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 19:59:53] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:03] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:13] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:23] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:33] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:43] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:00:53] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:01:13] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:01:23] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-05 20:01:33] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:22:20] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:22:30] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:22:50] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:23:00] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:25:04] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:25:14] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:25:24] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:26:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:26:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:26:36] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:26:56] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:27:06] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:27:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:27:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:27:36] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:27:46] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:28:06] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:28:16] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:28:26] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:28:57] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:29:07] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:29:17] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:29:27] [LOW] Port Scan detected from 192.168.1.7
+[2026-05-06 09:30:16] [HIGH] DoS Attack detected from 192.168.1.7
+[2026-05-06 09:30:26] [HIGH] DoS Attack detected from 192.168.1.7
+[2026-05-06 09:31:41] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-06 09:31:52] [MEDIUM] Brute Force Attack detected from 192.168.1.7
+[2026-05-07 09:22:21] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:22:31] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:22:41] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:23:01] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:23:21] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:24:50] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 09:26:00] [MEDIUM] Brute Force Attack detected from 10.89.103.1
+[2026-05-07 09:26:11] [MEDIUM] Brute Force Attack detected from 10.89.103.1
+[2026-05-07 09:26:27] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 09:27:01] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:27:11] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:27:21] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:27:31] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:27:41] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:27:51] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:28:11] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:28:31] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:43:36] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:45:26] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 09:45:36] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-07 11:10:41] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 11:10:51] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 11:13:05] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 11:13:15] [HIGH] DoS Attack detected from 10.89.103.1
+[2026-05-07 11:17:32] [MEDIUM] Brute Force Attack detected from 10.89.103.1
+[2026-05-07 11:17:43] [MEDIUM] Brute Force Attack detected from 10.89.103.1
+[2026-05-07 11:18:37] [LOW] Port Scan detected from 10.89.103.1
+[2026-05-14 08:46:59] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:47:04] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:47:09] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:47:19] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:47:31] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:47:43] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:48:25] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:48:27] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:48:35] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:49:13] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:49:23] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:49:48] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:49:56] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:49:59] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:50:08] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:50:10] [HIGH] DoS Attack detected from 151.101.38.172
+[2026-05-14 08:51:19] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:51:33] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:51:45] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:51:52] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:51:58] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:52:08] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:52:20] [HIGH] DoS Attack detected from 10.98.232.126
+[2026-05-14 08:52:28] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:52:38] [HIGH] DoS Attack detected from 146.75.118.172
+[2026-05-14 08:58:41] [LOW] Port Scan detected from 10.98.232.1
+[2026-05-14 08:59:31] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 08:59:42] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 09:00:41] [HIGH] DoS Attack detected from 10.98.232.1
+[2026-05-14 09:16:55] [LOW] Port Scan detected from 10.98.232.1
+[2026-05-14 09:17:59] [HIGH] DoS Attack detected from 10.98.232.1
+[2026-05-14 09:19:42] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 09:19:54] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 09:53:11] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 09:53:50] [HIGH] DoS Attack detected from 10.98.232.1
+[2026-05-14 09:54:00] [HIGH] DoS Attack detected from 10.98.232.1
+[2026-05-14 10:15:47] [LOW] Port Scan detected from 10.98.232.1
+[2026-05-14 10:16:02] [LOW] Port Scan detected from 10.98.232.1
+[2026-05-14 10:16:04] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 10:16:21] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 11:00:52] [LOW] Port Scan detected from 10.98.232.1
+[2026-05-14 11:02:26] [MEDIUM] Brute Force Attack detected from 10.98.232.1
+[2026-05-14 11:02:37] [MEDIUM] Brute Force Attack detected from 10.98.232.1

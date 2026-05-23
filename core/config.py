@@ -5,6 +5,6 @@ TIME_WINDOW = 10
 BRUTE_FORCE_THRESHOLD = 15
 BRUTE_FORCE_PORTS = [22, 21, 3389, 3306]
 
-LOG_FILE = r"C:\Users\DELL\OneDrive\Desktop\GUI_NIDS\data\alerts.log"
+LOG_FILE = r"data\alerts.log"
 
 APP_TITLE ="Advanced GUI Network ITrusion Detectio System"
